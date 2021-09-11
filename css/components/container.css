@@ -1,0 +1,11 @@
+.container-content {
+  background-size: cover;
+  background-position: center;
+  width: 900px;
+  margin: auto;
+  background-color: white
+}
+
+.container-content h2 {
+  color: black;
+}
